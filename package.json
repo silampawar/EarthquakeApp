@@ -13,11 +13,12 @@
     "react-scripts": "2.0.3",
     "react-test-renderer": "^16.6.3",
     "redux": "4.0.1",
-    "redux-thunk": "2.3.0"
+    "redux-thunk": "2.3.0",
+    "prop-types": "latest"
   },
   "devDependencies": {
-    "enzyme": "3.7.0",
-    "prop-types": "latest"
+    "enzyme": "3.7.0"
+    
   },
   "scripts": {
     "start": "react-scripts start",
