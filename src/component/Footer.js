@@ -6,7 +6,8 @@ export default function Footer() {
         <>
             <nav className="navbar fixed-bottom navbar-dark bg-primary">
                 <div className="navbar-brand-new">
-                    <div>Created by Silam <kbd>(Github)</kbd></div>
+                    <div>Created by Silam <a href = "https://github.com/silampawar/EarthquakeApp" target="_blank">
+                    <kbd>(Github)</kbd></a></div>
                 </div>
             </nav>
         </>
